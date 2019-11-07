@@ -1,4 +1,4 @@
-# Convert MATHLAB files using python
+# Convert MATHLAB files to CSV using python
 
 This python function is to convert MATHLAB file with header into csv file.
 
