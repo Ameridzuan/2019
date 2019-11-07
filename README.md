@@ -1,5 +1,5 @@
 # Convert MATHLAB files using python
 
-Required python libraries: 
-import scipy.io
-import numpy
+Required python libraries:
+1) import scipy.io
+2) import numpy
