@@ -6,5 +6,5 @@ Required python libraries:
 1) import scipy.io (https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.loadmat.html)
 2) import numpy
 
-# Supported version
+# Supported Python versions
 Python 3 is recommended
