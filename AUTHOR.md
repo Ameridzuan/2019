@@ -1,3 +1,3 @@
 # Author
 
-Amer Ridzuan <ridzuber@gmail.com>
+Amer Ridzuan (<ridzuber@gmail.com>)
